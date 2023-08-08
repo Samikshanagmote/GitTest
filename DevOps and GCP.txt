@@ -1,0 +1,40 @@
+1)infrastrucure as a service
+	GCP Compute
+	GKE
+2)platform as a service
+	app engine
+	cloud run
+3)infrastrucure as a code
+	Terraform
+4)Software as a service
+	end product:Gmail
+
+	snapshot is backup of disk in laymon terms
+	
+-----------------------------------------------------------------------------------------
+
+	before every application was based on monolithic architecture mans all SDLC ycle as a singlr application which is time taking process
+	so microservice based application came n to the picture.
+	
+	
+	MICROSERVICE BASED APPLICATION
+	
+-----------------------------------------------------------------------------------------
+
+GCP in 4 major services
+
+1]Compute service
+
+1.compute Engine-Creates VMs
+2.GKE-to run contenerized applicateion
+3.App engine-to deploy large scale web applications
+4.cloud functions -to run small scale web applications
+
+2]Storage
+
+1.no sql database
+2.cloud storage
+3.cloud sql
+4.cloud spanner
+5.cloud datastore
+
